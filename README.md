@@ -99,5 +99,3 @@ Contributions are welcome! If you’d like to improve functionality, fix bugs, o
 📜 License
 
 This project is released under the GNU General Public License v3.0 License. 
-You’re free to use, modify, and distribute the software with attribution.
-
